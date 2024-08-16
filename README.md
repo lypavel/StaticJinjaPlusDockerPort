@@ -1,7 +1,7 @@
 # Static Jinja Plus Docker Port
 
 Докер-порт проекта [StaticJinjaPlus](https://github.com/MrDave/StaticJinjaPlus).<br>
-Все образы доступны на [DockerHub](https://hub.docker.com/repository/docker/lypavel/static-jinja-plus/general).
+Все образы доступны на [DockerHub](https://hub.docker.com/r/lypavel/static-jinja-plus/).
 
 ## Запуск контейнера
 
